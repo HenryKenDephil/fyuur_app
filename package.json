@@ -1,0 +1,24 @@
+{
+  "name": "fyuur_app",
+  "version": "1.0.0",
+  "description": "Fyyur -----",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^3.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HenryKenDephil/fyuur_app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HenryKenDephil/fyuur_app/issues"
+  },
+  "homepage": "https://github.com/HenryKenDephil/fyuur_app#readme"
+}
